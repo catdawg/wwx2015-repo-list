@@ -1,0 +1,8 @@
+{
+	"wwx15sound":
+	{
+		"git_path":"git@github.com:gameduell/wwx15sound.git",
+		"library_path": "wwx15sound",
+		"destination_path": "wwx15sound"
+	},
+}
